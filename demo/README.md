@@ -2,7 +2,7 @@
 
 ### Generated dependencies and results
 ./binary_masks
-./models
+./models	# backed up by Wilson
 
 ### Input images
 ./faceA
@@ -20,6 +20,12 @@
 ./networks/faceswap_gan_model.py
 ./networks/nn_blocks.py
 ./prep_binary_masks.ipynb
+./FaceSwap_GAN_v2.2_train_test.ipynb
+./FaceSwap_GAN_v2_test_img.ipynb
 
 ### Fix import error
 ./networks/nn_blocks.py
+
+### Add cell results
+./FaceSwap_GAN_v2.2_train_test.ipynb
+./FaceSwap_GAN_v2_test_img.ipynb
